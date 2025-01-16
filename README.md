@@ -24,29 +24,3 @@ It is recommended to `git` `clone` `https://github.com/cs-olympic/finalcs1-ManO-
   <li>Choose Cipher</li>
   <li>Choose Cipher Option (file or text)</li>
 </ol>
-
-### Project Requirements
-
-- A well documented and useful README.md including
-  - A description of your project
-  - Dependency and installation instructions **excluding Geany, Git, Java, JavaFX, and ANSI/Unicode support**
-  - Instructions on configuration and execution of your project
-  - Sample output that may include images with captions and alt text
-  - A description of your repository and overall software design 
-  - Citations, Challenges, and anything else you feel is relevant
-- A functioning project with a working interface (terminal or graphical) that uses most of the following
-  - Variables and Methods (primtivie types, parameters, return types, overloading)
-  - If/Else (ternary if, else if, nested if, inequalities, ==, equals())
-  - Boolean logic (&&, ||, !, ^)
-  - Loops (for, while, do-while, for-each)
-  - Files and Scanners (resilient to invalid input)
-  - Try/Catch (resilient to thrown Exceptions)
-  - Arrays
-  - Custom Objects, Inheritance, Interfaces, and Polymorphism
-  - Switch
-  - Enumerated types
-- Well documented source code including 
-  - classes
-  - methods
-  - blocks of functionality
-  - cryptic individual lines
